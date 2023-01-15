@@ -1,0 +1,2 @@
+# newmanovlocanic
+ ''' Mad Libs Generator ------------------------------------------------------------- '''  # Questions for the user to answer  noun = input('Choose a noun: ')  p_noun = input('Choose a plural noun: ')  noun2 = input('Choose a noun: ')  place = input('Name a place: ')  adjective = input('Choose an adjective (Describing word): ')  noun3 = input('Choose a noun: ')  # Print a story from the user input  print('------------------------------------------')  print('Be kind to your', noun, '- footed', p_noun)
